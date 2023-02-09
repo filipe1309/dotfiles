@@ -1,0 +1,6 @@
+[push]
+	default = simple
+	followTags = true
+[user]
+	email = filipe1309@gmail.com
+	name = Filipe Leuch Bonfim
