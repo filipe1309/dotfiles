@@ -25,6 +25,9 @@ brew install awscli
 echo "Installing ffmpeg"
 brew install ffmpeg
 
+echo "Installing graphviz"
+brew install graphviz
+
 echo "Making Zsh the default shell"
 chsh -s $(which zsh)
 
